@@ -29,12 +29,14 @@
           <entry name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9/joda-time-2.9.jar" />
         </processorPath>
         <module name="OneApp" />
+        <module name="OneAppLearningJava" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="OneApp" options="-parameters" />
+      <module name="OneAppLearningJava" options="-parameters" />
     </option>
   </component>
 </project>
