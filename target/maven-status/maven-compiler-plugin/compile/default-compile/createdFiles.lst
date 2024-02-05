@@ -1,0 +1,14 @@
+one/app/users/UserService.class
+one/app/users/UserModel$UserModelBuilder.class
+one/app/users/UserDTOMapper.class
+one/app/usersVanilla/userModelVanilla.class
+one/app/users/UsersController.class
+one/app/users/UserModelDTO$UserModelDTOBuilder.class
+one/app/users/Users.class
+one/app/users/UserRequest.class
+one/app/Application.class
+one/app/mappers/UserMapper.class
+one/app/mappers/UserMapperImpl.class
+one/app/users/UserModel.class
+one/app/users/UserModelDTO.class
+one/app/mappers/Config.class
